@@ -50,6 +50,7 @@ What is it?
 
 Projects moved from stack forge into an official projects
 Benefits
+--------
 - no longer stuck  - using governance to drive behaviour
 - More collaboration between projects
 - More reactivity - ideas are driven by users and operators and allowed creating of team
@@ -58,12 +59,16 @@ Benefits
 - Focus on the core infra
 
 Disadvantages
-Some projects are single vendor and remain that way.
+-------------
+- Some projects are single vendor and remain that way.
 
-Confusion between what we produce
-It can be hard  for an established project to join OpenStack because of the governance requirements. For example, drop tools (e.g mailing list) and resources that works and is successful.\
+- Confusion between what we produce
+  It can be hard  for an established project to join OpenStack because of the
+  governance requirements. For example, drop tools (e.g mailing list) and
+  resources that works and is successful.
 
 Ugly
+----
 Cleaning up the tent
 
 
