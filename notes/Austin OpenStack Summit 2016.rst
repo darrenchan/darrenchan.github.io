@@ -92,21 +92,19 @@ HPE - Lifecycle Management of OpenStack using Ansible
 
 - Deploy, reconfig, upgrade/upstre./hotfix, Add service to node, add/remove ode, offline/online nodes
 
-Conforming complexity - The Number one Barrier to Enterprise Adoption
+- Conforming complexity - The number one barrier to enterprise adoption
 
-April 2016 User Survey Report
+- April 2016 User Survey Report
+  Complexity - many choices to be made
+  54 OpenStack projects
 
-Complexity - many choices to be made
-54 projects
+- Deployment considerations - OS, OpenStack
 
-Deployment
-OS, OpenStack
+- Network configuration - flat, vlans, GRE tunnel, SDN
 
-Network config - flat, vlans, GRE tunnel, SDN
+- Getting started with OpenStack page (7 options) vs Microsoft azure (1 option)
 
-Getting started with OpenStack page (7 options) vs Microsoft azure (1 option)
-
-Complexities - management
+- Complexities - management
 
 Address complexities
 Docs -
@@ -117,25 +115,25 @@ fleet and inventory management
 Installation Guide discussion
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-docs - revamping the install guide
+- docs - revamping the install guide
 
-Need for comparison of deployment tools such as Fuel, ansible, etc to allow users to make a choice
+- Need for comparison of deployment tools such as Fuel, ansible, etc to allow users to make a choice
 
-Each deployment has a reference architecture
+- Each deployment has a reference architecture
 
 OpenStack Talent development  - Lessons learned
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Community - embracing rookies
-An exam to measure the effectiveness of learning. 
+- Community - embracing rookies
+  An exam to measure the effectiveness of learning. 
 
-Teaching new developers to embrace the community culture and understand how
-to commit code, do code reviews, have a high degree of collaboration.
+- Teaching new developers to embrace the community culture and understand how
+  to commit code, do code reviews, have a high degree of collaboration.
 
-Best to learn is to teach it. All students will be adhoc professors and
-teach what they learned.
-Project deep dives
-Classes to support technologies
+- Best way to learn is to teach it. All students will be adhoc professors and
+   teach what they learned.
+- Implemeent project deep dives
+- Run classes to support technologies
 
 OpenStack upgrades
 ~~~~~~~~~~~~~~~~~~
@@ -186,7 +184,6 @@ Ubuntu 16.04 support in conjunction with Ubuntu 14.04 support
 Mitaka retrospective
 ~~~~~~~~~~~~~~~~~~~~
  https://etherpad.openstack.org/p/austin-docs-mitakaretro
- 
 
 Installation Guide
 ~~~~~~~~~~~~~~~~~~
@@ -194,7 +191,8 @@ Installation Guide
 https://review.openstack.org/#/c/301284
 https://etherpad.openstack.org/p/austin-docs-workgroup-install
 
-**Action item**
+Action item
+-----------
 - Liaise with Mike Perez (thingee), Christian on establishing a project
   install guide template.
   
@@ -217,7 +215,7 @@ Contributor Guide
 https://etherpad.openstack.org/p/austin-docs-contributorguide
 
 Action items
-~~~~~~~~~~~~
+------------
 - Mailing list and working group to establish standards/tooling for diagrams
 
 Security Guide
@@ -271,18 +269,3 @@ arch guide discussion with Shaun O'meara
 Ops Guide
 - Specifics on performing backups
 
-Day 5
-I think a key constraint in the last midcycle was a lack of SMEs contributing to the guides. So one of my goals during this summit is to meet some operators and cloud architects who can actively contribute ito the Newton release cycle.
-
-Mentor 
-
-Day 4
-
-OpenStack-ansible docs session
-
-
-BBQ
-
-Day 3
-
-Core reviewer - Long center
