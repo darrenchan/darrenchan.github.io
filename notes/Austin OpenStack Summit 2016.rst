@@ -35,13 +35,52 @@ Document real world experiences and what happens in production
 Mitaka - Beyond the release notes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Personas
+Meet the OpenStack Personas (So Far)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Architect, Ops
+https://bit.ly/OpenStackPersonasAustin
+Slide deck: https://drive.google.com/folderview?id=0B9N3-Cxg0tC7RDdjbnRkeFZ3eWs&usp=drive_web
 
-Developers
+- Personas help the community understand who are our users
+
+- Personas are representations of your key audience segments based on qualitative
+  and quantitative user research
+
+- Personas ARE important to developers, to validate assumptions how users use
+  your products, or features and determine user role,s error messages, terminology, results
+
+- Persona validation survey conducted at Rackspace, IBM Design in Austin and Best Buy in Seattle
+
+Roles in the Cloud Ecosystem
+----------------------------
+- Hardware- DC ops
+- Cloud OS (service provider)- Service Admin, Automation Engineer, Clouds Ops,
+  Infra Architect
+- Domain - Domain Ops
+- Application - App Arch, Project Owner, App Developer
+
+
 Lead developer - managing users and policies
 Domain Ops - in managed providers, managed SLAs. troubleshooting,
+
+- Roles at Different Cloud Adoption Stages (see slide deck)
+
+Roles differs across Adopters and Ecosystems
+---------------------------------------------
+Enterprise - security and compliance with regulations, formal roles
+Service provider - provide service to customer, security and hiding data
+between customers, high reliability, compliance inherited from customer's needs
+Research/Academic - flexible architecture, minimal compliance
+
+OpenStack UX vision
+-------------------
+- Operator feedback was isolation lack of coordination between projects.
+  For example, terminology 'project 'or 'tenant'?
+- Drive consistency in how we talk about our customers within the community
+- This includes the OS Foundation, User Committes, Product WG, OpenStack UX, Project
+  Encourage discussion of personas in projects
+- Validate personas
+
 
 The Big Tent - One year later
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,12 +88,13 @@ The Big Tent - One year later
 What is it?
 
 Projects moved from stack forge into an official projects
+
 Benefits
 --------
 - no longer stuck  - using governance to drive behaviour
 - More collaboration between projects
 - More reactivity - ideas are driven by users and operators and allowed creating of team
- - Competition - mechanisms to adding multiple projects to address the same problem
+- Competition - mechanisms to adding multiple projects to address the same problem
 - Forced us to document the OpenStack way - project team guide
 - Focus on the core infra
 
@@ -97,7 +137,9 @@ HPE - Lifecycle Management of OpenStack using Ansible
 
 - Deploy, reconfig, upgrade/upstre./hotfix, Add service to node, add/remove ode, offline/online nodes
 
-- Conforming complexity - The number one barrier to enterprise adoption
+
+Conforming complexity - The number one barrier to enterprise adoption
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - April 2016 User Survey Report
   Complexity - many choices to be made
@@ -113,7 +155,7 @@ HPE - Lifecycle Management of OpenStack using Ansible
 
 Address complexities
 Docs -
-User feedback 
+User feedback
 
 fleet and inventory management
 
@@ -126,11 +168,11 @@ Installation Guide discussion
 
 - Each deployment has a reference architecture
 
-OpenStack Talent development  - Lessons learned
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+OpenStack Talent Development - Lessons Learned
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Community - embracing rookies
-  An exam to measure the effectiveness of learning. 
+  An exam to measure the effectiveness of learning.
 
 - Teaching new developers to embrace the community culture and understand how
   to commit code, do code reviews, have a high degree of collaboration.
@@ -185,7 +227,7 @@ Ubuntu 16.04 support in conjunction with Ubuntu 14.04 support
  - Possible option to install packages from distro
  - Focus on priorities rather than addressing requests for new features
  - Support multiple ??
- 
+
 Mitaka retrospective
 ~~~~~~~~~~~~~~~~~~~~
  https://etherpad.openstack.org/p/austin-docs-mitakaretro
@@ -200,15 +242,15 @@ Action item
 -----------
 - Liaise with Mike Perez (thingee), Christian on establishing a project
   install guide template.
-  
-  
+
+
 OpenStack Ansible docs
 ~~~~~~~~~~~~~~~~~~~~~~
 
 https://etherpad.openstack.org/p/openstack-ansible-newton-role-docs
 
 - Ownership with developers
-- Working group with technical lead - Darren, Robb, Alex, Major, Travis, Amy, 
+- Working group with technical lead - Darren, Robb, Alex, Major, Travis, Amy,
 
 =================
 Thursday 28 April
@@ -225,7 +267,7 @@ Action items
 
 Security Guide
 ~~~~~~~~~~~~~~
-https://etherpad.openstack.org/p/austin-docs-workgroup-security 
+https://etherpad.openstack.org/p/austin-docs-workgroup-security
 - Neutron content out of date
 
 Networking guide
