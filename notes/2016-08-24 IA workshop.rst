@@ -81,9 +81,9 @@ How users are different to you:
 - Use different terminology
 - Use something in a different place (desk, mobile)
 
-Formal : research at the start of the 
+Formal : Research at the start of the project.
 
-Informal: Get to know your users 
+Informal: Get to know your users. 
 
 .. image:: images/Photo 24-08-2016.jpg
 
@@ -99,7 +99,7 @@ Interviews
 
 Focus groups
 ------------
-- The benefit is this involves more ppl in one  
+- The benefit is this involves more ppl in one setting. 
 - They are self purported, and work if you know how to moderate a group. If
   you provide preparation questions beforehand, participants will commit to
   their opinion. If you don't, they will run with the leader of the focus group.
@@ -126,7 +126,7 @@ Card sorting
 - It was a novice technique when everyone was understanding IA.
 - Learn what things go together, and why (labelling).
 - Good technique if you are new to IA and don't know how to group things.
-- It gives shallow insights since users will have a tendency to pattern match rather than
+- It gives a shallow insight since users will have a tendency to pattern-match rather than
   express a depth of understanding.
 - Don't soley rely on this technqiue. Use it in conjunction with other user research
   techniques such as interviews.
@@ -143,7 +143,7 @@ Looking for information
   start and may research for awhile.
 
 **Activity**
-User interview - Interview someone in the group on how to plan meals for 15 minutes 
+User interview - Interview someone in the group on how to plan meals for 15 minutes .
 
 Content analysis
 ~~~~~~~~~~~~~~~~
@@ -184,7 +184,7 @@ See photo
 
 
 Digital service standard (Govt)
-see photo
+See photo
 
 Do it as a combination of implementation and future state.
 
@@ -249,15 +249,14 @@ IA styles
 - Balance IA style on content and what users are doing.
 - There's no right or wrong approach.
 
-Examples with a mix of IA styles: https://www.qantas.com,
+Example websites with a mix of IA styles: https://www.qantas.com,
 https://www.whitehouse.gov/
 
 
 Database (structure)
 --------------------
 - Used for structured content.
-- Store a piece of content once, make it available in more than one way
-e.g. Etsy.
+- Store a piece of content once, make it available in more than one way, e.g. Etsy.
 
 Metadata
 --------
@@ -309,7 +308,7 @@ Labelling
 ---------
 - Call things by their correct name or language
 - Use consistent form and terminology
-- Take into consideration terms the audience uses. For example, people still use old term 
+- Take into consideration terms the audience uses. For example, people still use the old term 
   "group certificate", when the current term is "PAYG payment summary".
 
 
@@ -353,7 +352,7 @@ Tools:
 
 **Tips**
 
-- Test your test - it's easy to make mistake with the tree, correct answers and tasks
+- Test your test - it's easy to make mistakes with the tree, correct answers and tasks
 - Test two versions
   - Easier to interpret results
   - Tweaks to one version
