@@ -33,7 +33,7 @@ Classic category theory
 - Categories are based on shared properties.
 - Categories with boundaries - things are in or out - western thinking - understanding how   
   we think we think.
-- Aristotle period philosopher had ideas of how things work and embedded in
+- During the Aristotle period, philosophers had ideas of how things work which is embedded in
   western thought.
 - All categories are of equal importance.
 
