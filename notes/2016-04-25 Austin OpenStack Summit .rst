@@ -34,7 +34,6 @@ Document real world experiences and what happens in production
 
 Mitaka - Beyond the release notes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Meet the OpenStack Personas (So Far)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

@@ -1,2 +1,2 @@
-# darrenchan.github.io
-Blog and tidbits of information
+
+Tidbits of information
