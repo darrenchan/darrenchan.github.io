@@ -353,11 +353,11 @@ Tools:
 
 **Tips**
 
--Test your test - it's easy to make mistake with the tree, correct answers and task
+- Test your test - it's easy to make mistake with the tree, correct answers and tasks
 - Test two versions
-   - Easier to interpret results
-   - Tweaks to one version
-   - Entirely different approaches
+  - Easier to interpret results
+  - Tweaks to one version
+  - Entirely different approaches
 
 
 
