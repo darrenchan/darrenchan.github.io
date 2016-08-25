@@ -17,7 +17,7 @@ Project types
 - Document/resource management - taxonomies
 
 Who does it? Anyone who can look at information both from a broad and detailed
-perspective, cares about language, description, and what the user .
+perspective, cares about language, description, and what the user needs.
 
 Categories
 ~~~~~~~~~~
