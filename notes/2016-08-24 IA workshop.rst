@@ -17,25 +17,25 @@ Project types
 - Document/resource management - taxonomies
 
 Who does it? Anyone who can look at information both from a broad and detailed
-perspective, cares about language, description, and what the user needs
+perspective, cares about language, description, and what the user .
 
 Categories
 ~~~~~~~~~~
 
 Activity
 --------
-Individually write 5 foods on sticky notes
-Group together and sort by categories
+Individually write 5 foods on sticky notes.
+Group together and sort by categories.
 
 
 Classic category theory
 -----------------------
-- Categories are based on shared properties
+- Categories are based on shared properties.
 - Categories with boundaries - things are in or out - western thinking - understanding how   
-  we think we think
+  we think we think.
 - Aristotle period philosopher had ideas of how things work and embedded in
-  western thought
-- All categories are of equal importance
+  western thought.
+- All categories are of equal importance.
 
 Modern category theory
 ----------------------
@@ -44,8 +44,8 @@ Modern category theory
 - Categories are based on our personal experiences 
 - There is no right or wrong way to categorise
 
-Category boundaries are not fixed. They can overlap. Some items that are fuzzy
-that are put into fixed boundaries.
+Category boundaries are not fixed. They can overlap. Some items that don't have
+a clear category are put into fixed category boundaries.
 
 How we think changes over time. For example, we now categorise food based on
 nutritive value- protein, carbs, fat.
@@ -58,7 +58,9 @@ Categories are easy to describe, but hard to define. A category can be described
 Basic categorisation hierarchy
 ------------------------------
 broad -> basic -> detailed
+
 animal -> dog -> dalmatian
+
 furniture -> table -> bedside table
 
 - Kids learn words at the basic category level. 
@@ -79,20 +81,21 @@ How users are different to you:
 - Use different terminology
 - Use something in a different place (desk, mobile)
 
-Formal : research at the start of the project
+Formal : research at the start of the 
+
 Informal: Get to know your users 
 
 .. image:: images/Photo 24-08-2016.jpg
 
 Interviews
 ----------
-Note that people can tell you what think they think, which can be different to
-what they do.
-Interviewing people allows you go on tangents and queries to probe and get
-more in depth information. You are also getting language, concepts and words.
-It is important to record interviews (with permission) to capture the language.
-If you are only taking notes, you are only capturing information in your own
-language.
+- Note that people can tell you what think they think, which can be different to
+  what they do.
+- Interviewing people allows you go on tangents and queries to probe and get
+  more in depth information. You are also getting language, concepts and words.
+- It is important to record interviews (with permission) to capture the language.
+  If you are only taking notes, you are only capturing information in your own
+  language.
 
 Focus groups
 ------------
@@ -119,12 +122,12 @@ call centres, and help desk.
 
 Card sorting 
 ------------
--Technique to write things on cards, and getting users to categorise.
+- Technique to write things on cards, and getting users to categorise.
 - It was a novice technique when everyone was understanding IA.
-- Learn what things go together, and why (labelling)
-- Good technique if you are new to IA and don't know how to group things
+- Learn what things go together, and why (labelling).
+- Good technique if you are new to IA and don't know how to group things.
 - It gives shallow insights since users will have a tendency to pattern match rather than
-  express a depth of understanding
+  express a depth of understanding.
 - Don't soley rely on this technqiue. Use it in conjunction with other user research
   techniques such as interviews.
 
@@ -156,11 +159,12 @@ Content inventory
 A list of everything you need to work with (spreadsheet).
 
 You might collect:
-- Full inventory - list of everything (e.g. redesign up to 5000 pages)
+
+- Full inventory - list of everything (e.g. redesign up to 5000 pages).
 - Partial inventory - High level plus some deep level in some areas (high use
   areas, e.g. on a university website,  student facing content would be deep
-  level, academic information would be high level)
-- Sample - Look at other content
+  level, academic information would be high level).
+- Sample - Look at other content.
 
 Analysis
 --------
@@ -178,12 +182,11 @@ Content modelling
 -----------------
 See photo
 
-See relationships and how to use the relationships
 
 Digital service standard (Govt)
 see photo
 
-Do it as a combination of implementation and future state
+Do it as a combination of implementation and future state.
 
 
 Content types
@@ -207,7 +210,7 @@ Classification schemes
 Be careful how you categorise content. Classification and language needs to
 change over time.
 
-- Alphabet - suits users with known item information seeking
+- Alphabet - suits users with known item information .
 - Placenames 
 - Geography - the level of detail is important. A bad example, Lonely planet
   defined by region, then had a listing of places by continent.
@@ -216,7 +219,7 @@ change over time.
   well. Doesn't work if content applies to more than one audience. Bad
   example: The old Dell website sorted audience by number of users.
 - Lifecycle - e.g. moneysmart website sequence by life events
-  e.g. getting married, starting a family, retirement
+  e.g. getting married, starting a family, retirement.
 - Subject or topic - People tend to think topically. 
 
 It's ok to mix up classification schemes e.g. ATO website
@@ -226,7 +229,8 @@ page has task-based content, legal database is format-based.
 Designing IA
 ~~~~~~~~~~~~
 
-What is an IA?
+What is an IA
+
 - A conceptual structure for a set of content - Relationships between content
   types.
 - A set of labels that describes groups of content.
@@ -237,12 +241,12 @@ navigation.
 
 IA styles
 ---------
-- Hierarchy - content relationship is broader and narrower
- - Broad - lots of items at each level
- - Deep - many levels with less items
-- Strict - things in one place only
-- Polyhierarchy - things can be in more than one place
-- Balance IA style on content and what users are doing
+- Hierarchy - content relationship is broader and narrower.
+ - Broad - lots of items at each level.
+ - Deep - many levels with less items.
+- Strict - things in one place only.
+- Polyhierarchy - things can be in more than one place.
+- Balance IA style on content and what users are doing.
 - There's no right or wrong approach.
 
 Examples with a mix of IA styles: https://www.qantas.com,
@@ -251,14 +255,14 @@ https://www.whitehouse.gov/
 
 Database (structure)
 --------------------
-- Used for structured content
+- Used for structured content.
 - Store a piece of content once, make it available in more than one way
-e.g. etsy
+e.g. Etsy.
 
 Metadata
 --------
-- Data about data
-- Use it to describe content, then use it to display content
+- Data about data.
+- Use it to describe content, then use it to display content.
 - Types:
   - Administrative- Dates, authors, owners
   - Descriptive - topics, cruisine, etc
@@ -266,7 +270,7 @@ Metadata
 
 Hypertext
 ---------
-- Relationship between the content items is part of the content
+- Relationship between the content items is part of the content.
 - No external relationship e.g. Wikipedia.
 
 You can combine unstructured and structured content.
@@ -290,6 +294,7 @@ Designing the IA
 6. Start discussing it with stakeholders.
 
 **Tips**
+
 - How many content groups?
 - Think about navigation, but put it aside
 - If stakeholders hate it, then something is missing. Ask why. 
@@ -312,35 +317,42 @@ IA testing
 ----------
 Test IA hierarchy
 
-Tools: 
+Tools:
+
 - Treejack: http://www.optimalworkshop.com/treejack
 - User zoom tree testing: http://www.userzoom.com/products/tree-testing
 - C-inspector: http://www.c-inspector.com/index.php
 
 **Preparation:**
+
 - Need a simple hierarchy, or two
 - Ok to put an item in two places
 - Test subcategories
 
 **Preparation: the tasks**
+
 - Figure out what you want to do
 - Write the tasks - in general, user friendly language
 
 **Preparation: the people**
+
 - Recruit people for user research 
 - If performing a survey online, you need volume to get results and discard user errors.
   Offer an incentive.
 
 **Preparation: The tool**
+
 - Enter IA, tasks, and identify correct locations
 - Settings: Randomize tasks to avoid a consistent learning effect
 - 6-8 tasks per person maximum
 
 **Analysis**
+
 - Check what happened with each track
 - Check what happened in each part of the IA
 
 **Tips**
+
 -Test your test - it's easy to make mistake with the tree, correct answers and task
 - Test two versions
    - Easier to interpret results
