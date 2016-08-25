@@ -2,7 +2,10 @@
 Information Architecture workshop
 =================================
 **25 August, 2016**
-**https://uxaustralia.com.au**
+
+**Donna Spencer**
+
+**http://www.uxaustralia.com.au/conferences/uxaustralia-2016/presentation/introduction-to-information-architecture/**
 
 
 Information Architecture is organising content or objects, describing them, and
